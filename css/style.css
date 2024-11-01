@@ -112,6 +112,14 @@ header nav a:hover {
   text-decoration: underline;
 }
 
+/* POSTS */
+.excerpt {
+  margin: 1em 0;
+  border: 1px dashed var(--brand-secondary);
+  padding: 1em;
+  border-radius: 5px;
+}
+
 /* Responsive design */
 
 @media (min-width: 768px) {

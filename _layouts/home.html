@@ -19,13 +19,14 @@
   <section>
 
     <h2>Latest</h2>
-    {% for post in site.posts limit:1 %}
-    <a href="{{ post.url }}">
-      <h3>{{ post.date | date: "%d %B %Y" }}: {{ post.title }}</h3>
-    </a>
-
-    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
-    <a href="{{ post.url }}">more...</a>
+    <div class=excerpt>
+      {% for post in site.posts limit:1 %}
+      <a href="{{ post.url }}">
+        <h3>{{ post.date | date: "%d %B %Y" }}: {{ post.title }}</h3>
+      </a>
+      <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+      <a href="{{ post.url }}">more...</a>
+    </div>
     {% endfor %}
     <h2>Previous</h2>
     <ul>
