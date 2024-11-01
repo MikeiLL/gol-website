@@ -69,7 +69,7 @@ Thanks, arara crew. Long live the arara bird and Brazilian hospitality!
 
 Note that two files needed to be created on my system in order for this to work. The `araraconfig.yaml` file located in my home directory:
 
-``
+```
 
 ```
 
@@ -87,7 +87,7 @@ Note that two files needed to be created on my system in order for this to work.
 
 And a single rule, `lilypond.yaml`, located in the above referenced directory:
 
-``
+```
 
 ```
 
@@ -215,7 +215,7 @@ Once those required fonts were added to the system (all found for free via Searc
 
 So now I can run the following bash script to render:
 
-``
+```
 
 ```
 
@@ -231,22 +231,19 @@ But I would like to also get xelatex working with arara…
 
 That was easy:
 
-``
-
 ```
 
+```
     % arara: lilypond: {options: "--latex-program=xelatex --pdf"}
     % arara: xelatex: { files: [ 'hymnal.tex' ] }
 ```
 
 The [raw files on GitHub](https://github.com/MikeiLL/hymnal-Vol-II).
 
-&lt;!––nextpage––&gt;
-
 Automatically creating an Index of terms took a little while to figure out. But it’s actually pretty simple.
 
 We want the package:
- \\usepackage{imakeidx} % index
+ `\usepackage{imakeidx} % index`
 
 Then we need to call the `\makeindex` command *within* the preamble.
 
@@ -266,7 +263,6 @@ inkscape -D -z --file=AllOnePose.svg --export-pdf=poses/AllOnePose.pdf --export-
 
 Now we can use Arabic via [ArabXeTeX](http://ctan.org/pkg/arabxetex):
 
-``
 
 ```
 

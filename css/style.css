@@ -66,6 +66,13 @@ footer {
   padding: 0.6em;
 }
 
+pre {
+  background-color: #f6f3f9;
+  padding: 1em;
+  overflow-x: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .PageNavigation {
   font-size: 14px;
   display: block;
