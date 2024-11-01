@@ -12,5 +12,5 @@ To build and test locally:
 
 * Install Ruby
 * `gem install bundler`
-* `bundle install` (or `bundle install --path vendor/bundle`)
+* `bundle install` (or perhaps better: `bundle install --path vendor/bundle`)
 * `bundle exec jekyll serve`

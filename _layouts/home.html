@@ -3,13 +3,31 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Diary of an iLL Boy – Sex, drugs and depression</title>
+  <title>Giggle Out Loud – Genre Fluid Music</title>
   <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
-  <h1>Diary of an iLL Boy – Sex, drugs, depression and other humor</h1>
+  <header>
+    <h1>Home of Rivka and Mike iLL</h1>
+    <nav>
+      <a href="/">Home</a>
+      <A href="https://cdn.forms-content.sg-form.com/80ed0f27-8fe8-11ef-ba56-e2f6e3f70426"
+        title="Signup for our newsletter">Newsletter Signup</a>
+    </nav>
+  </header>
   <section>
+
+    <h2>Latest</h2>
+    {% for post in site.posts limit:1 %}
+    <a href="{{ post.url }}">
+      <h3>{{ post.date | date: "%d %B %Y" }}: {{ post.title }}</h3>
+    </a>
+
+    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+
+    {% endfor %}
+    <h2>Previous</h2>
     <ul>
       {% for post in site.posts %}
       <li>
@@ -17,10 +35,9 @@
       </li>
       {% endfor %}
     </ul>
-  </section>
-  <footer>
-    &copy; Mike iLL
-  </footer>
+    <footer>
+      &copy; Rivka and Mike iLL Kilmer
+    </footer>
 </body>
 
 </html>
