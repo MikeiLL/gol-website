@@ -11,8 +11,8 @@
   <header>
     <h1>Home of Rivka and Mike iLL</h1>
     <nav>
-      <a href="/">Home</a>
-      <A href="https://cdn.forms-content.sg-form.com/80ed0f27-8fe8-11ef-ba56-e2f6e3f70426"
+      <a href="/" title="main page">Home</a>
+      <a href="https://cdn.forms-content.sg-form.com/80ed0f27-8fe8-11ef-ba56-e2f6e3f70426"
         title="Signup for our newsletter">Newsletter Signup</a>
     </nav>
   </header>
@@ -25,7 +25,7 @@
     </a>
 
     <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
-
+    <a href="{{ post.url }}">more...</a>
     {% endfor %}
     <h2>Previous</h2>
     <ul>

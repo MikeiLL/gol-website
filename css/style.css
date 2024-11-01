@@ -4,6 +4,19 @@
   box-sizing: border-box;
 }
 
+/* Color scheme */
+:root {
+  --brand-primary: #8800ff;
+  --brand-secondary: #6c757d;
+  --brand-primary-dark: #410079;
+  --brand-success: #00790c;
+  --brand-info: #277693;
+  --brand-warning: #dad200;
+  --brand-danger: #79002e;
+  --white: #f6f3f9;
+  --black: #150127;
+}
+
 body {
   font-family: monospace;
   font-size: 1.6em;
@@ -70,6 +83,29 @@ footer {
 .PageNavigation .next {
   text-align: right;
 }
+
+/* HEADER */
+header {
+  background-color: var(--brand-primary-dark);
+  color: #fff;
+  margin: 0 0 1em;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive design */
 
 @media (min-width: 768px) {
   .PageNavigation a {
