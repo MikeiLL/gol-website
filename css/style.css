@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: monospace;
+  font-size: 1.6em;
+  padding: 1em;
+}
+
+p {
+  margin: 0.7em 0;
+  max-width: 780px;
+  line-height: 1.14em;
+}
+
+ul {
+  list-style: none;
+  margin-left: 1em;
+}
+
+ul li {
+  margin: 0.5em 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0.2em 0 1em;
+}
+
+blockquote {
+  margin: 1em;
+  font-style: italic;
+  font-size: 1.1em;
+  max-width: 90%;
+}
+
+blockquote cite {
+  font-size: 0.8em;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+header,
+main,
+footer {
+  padding: 0.6em;
+}
+
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+@media (min-width: 768px) {
+  .PageNavigation a {
+    width: auto;
+    float: none;
+    margin: 0;
+  }
+
+  .PageNavigation .next {
+    text-align: right;
+  }
+
+  body {
+    font-size: 1.2em;
+  }
+}
