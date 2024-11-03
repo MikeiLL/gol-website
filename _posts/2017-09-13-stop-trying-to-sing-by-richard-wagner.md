@@ -2,9 +2,8 @@
 id: 468
 title: 'Stop Trying to Sing by Richard Wagner'
 date: '2017-09-13T23:27:04+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=468'
+guid: 'https://giggleoutloud.com/?p=468'
 permalink: /2017/09/13/stop-trying-to-sing-by-richard-wagner/
 categories:
     - 'Concert Updates'

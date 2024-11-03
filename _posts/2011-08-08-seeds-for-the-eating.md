@@ -2,9 +2,8 @@
 id: 92
 title: 'Seeds for the Eating'
 date: '2011-08-08T02:20:55+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=92'
+guid: 'https://giggleoutloud.com/LIVE/?p=92'
 permalink: /2011/08/08/seeds-for-the-eating/
 categories:
     - 'Fun Stuff'

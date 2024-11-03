@@ -2,15 +2,14 @@
 id: 448
 title: 'Why Simple?'
 date: '2017-08-03T08:21:07+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=448'
+guid: 'https://giggleoutloud.com/?p=448'
 permalink: /2017/08/03/why-simple/
 categories:
     - 'Concert Updates'
 ---
 
-![](https://centerofwow.com/LIVE/wp-content/uploads/2017/08/scizzor-300x300.jpg)  
+![](https://giggleoutloud.com/LIVE/wp-content/uploads/2017/08/scizzor-300x300.jpg)
 This particular song, Icicle Man was written over the course of a walk around Nashville one hot afternoon while on a solo tour. Had been reading a biography of Hank Williams and didn’t have a friend for miles around, at least that I knew of. There was also a copy of Johnny Cash’s first autobiography, Man in Black, that had come into my hands at the time.
 
 I was in my mid-late twenties and my last romantic relationship had ended really unhappily, mostly because I was being at best a terrible communicator and at worst, an abusive, homphobic womanizer. I had emerged from a long period of heartbreak and depression feeling like a monster with whom an intimate relationship would only lead to pain, and for whom casual intimacy was the only reasonable source of sensual intercourse.
@@ -37,16 +36,16 @@ The work-a-holic mantra.
 
 All of the verses are very short and concise, much like some of the classic Johnny and Hank songs:
 
-> Everybody knows where you go when the sun goes down.  
->  I think you only live to see the lights of town.  
->  I wasted my time when I wouldn’t try, try, try.  
+> Everybody knows where you go when the sun goes down.
+>  I think you only live to see the lights of town.
+>  I wasted my time when I wouldn’t try, try, try.
 >  When the lights have lost their glow you’re gonna cry, cry, cry.
 
 One of those “punch line” refrains from Johnny. Or Hank’s:
 
-> I’m a rollin’ stone all alone and lost  
->  For a life of sin I have paid the cost  
->  When I pass by all the people say  
+> I’m a rollin’ stone all alone and lost
+>  For a life of sin I have paid the cost
+>  When I pass by all the people say
 >  Just another guy on the lost highway
 
 So good!
@@ -57,9 +56,9 @@ So easy to play and remember. These two qualities are key to a song’s practica
 
 # Second Verse
 
-> I was cold when I left here  
->  Cold when I returned  
->  You never should’a let me back in your life  
+> I was cold when I left here
+>  Cold when I returned
+>  You never should’a let me back in your life
 >  ‘Cause all ya ended up was burned by Pain, horrible pain…
 
 I love the drum machine part on this track. It’s just three sounds over two measures repeated. On the bass drum and side stick:
@@ -74,16 +73,16 @@ That and three very staccatto guitar chords is the whole instrumental foundation
 
 # Third Verse
 
-[![](https://centerofwow.com/LIVE/wp-content/uploads/2017/08/demon-doll-300x300.jpg)](https://giggleoutloud.com/wp-content/uploads/2017/08/demon-doll.jpg)  
+[![](https://giggleoutloud.com/LIVE/wp-content/uploads/2017/08/demon-doll-300x300.jpg)](https://giggleoutloud.com/wp-content/uploads/2017/08/demon-doll.jpg)
 Inner conflict. The inner demon and angel. The demon will win out, the narrator fears.
 
-> Two characters to my left and right one’s tellin’ me wrong one’s tellin’ me right…  
+> Two characters to my left and right one’s tellin’ me wrong one’s tellin’ me right…
 >  Now, who ya think is gonna win this fight? Be the one in black or…
 
 Painting a visual image. Then elaborating a bit.
 
-> Two sides to every story. That’s the thing that’s drivin’ me mad.  
->  So glad you’re sad you been had by  
+> Two sides to every story. That’s the thing that’s drivin’ me mad.
+>  So glad you’re sad you been had by
 >  Pain, horrible pain…
 
 # Final Verse

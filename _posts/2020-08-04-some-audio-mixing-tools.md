@@ -2,9 +2,8 @@
 id: 582
 title: 'Some Audio Mixing Tools'
 date: '2020-08-04T18:08:01+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=582'
+guid: 'https://giggleoutloud.com/?p=582'
 permalink: /2020/08/04/some-audio-mixing-tools/
 categories:
     - Recording

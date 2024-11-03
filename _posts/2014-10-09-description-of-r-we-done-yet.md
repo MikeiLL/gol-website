@@ -2,9 +2,8 @@
 id: 266
 title: 'Description of R We Done Yet?'
 date: '2014-10-09T19:57:13+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=266'
+guid: 'https://giggleoutloud.com/?p=266'
 permalink: /2014/10/09/description-of-r-we-done-yet/
 categories:
     - 'R We Done Yet'

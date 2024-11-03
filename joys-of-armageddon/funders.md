@@ -2,9 +2,8 @@
 id: 62
 title: Funders
 date: '2011-06-06T20:03:53+00:00'
-author: illest
 layout: page
-guid: 'https://centerofwow.com/LIVE/?page_id=62'
+guid: 'https://giggleoutloud.com/LIVE/?page_id=62'
 ---
 
 Some of the people and organization who have made many of the Mad haPPy projects possible through their generous contributions are listed here (in no particular order):

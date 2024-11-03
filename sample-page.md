@@ -2,7 +2,6 @@
 id: 2
 title: 'Sample Page'
 date: '2022-03-24T15:59:31+00:00'
-author: illest
 layout: page
 guid: 'http://giggleoutloud.com/?page_id=2'
 ---

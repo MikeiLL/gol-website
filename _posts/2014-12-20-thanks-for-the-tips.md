@@ -2,9 +2,8 @@
 id: 285
 title: 'Thanks for the tips'
 date: '2014-12-20T00:23:17+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=285'
+guid: 'https://giggleoutloud.com/?p=285'
 permalink: /2014/12/20/thanks-for-the-tips/
 categories:
     - 'Concert Updates'

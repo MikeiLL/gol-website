@@ -2,9 +2,8 @@
 id: 75
 title: 'Beet Kvas Mary&#8217;s'
 date: '2011-06-18T21:42:50+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=75'
+guid: 'https://giggleoutloud.com/LIVE/?p=75'
 permalink: /2011/06/18/beet-kvas-marys/
 categories:
     - 'Fun Stuff'

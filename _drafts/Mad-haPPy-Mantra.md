@@ -2,9 +2,8 @@
 id: 333
 title: 'Mad haPPy Mantra'
 date: '2016-02-08T02:16:02+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=333'
+guid: 'https://giggleoutloud.com/?p=333'
 permalink: '/?p=333'
 categories:
     - 'Concert Updates'
@@ -24,18 +23,18 @@ Woke up with this melody. From a dream? I forget. Wrote some words. Most of them
 
 There’s a really amusing and inspiring
 
-Ong Namo Guru Dev Namo  
-Wahay Guru Sat Nam Hare Hare Ram Ram  
+Ong Namo Guru Dev Namo
+Wahay Guru Sat Nam Hare Hare Ram Ram
 Getting Better All The Time
 
 ### All Human
 
 A whole queerchestra!
 
-Incomplete Faith  
-Long Ek Ong Car  
-Oh, Lead  
-Shatter the Mold  
+Incomplete Faith
+Long Ek Ong Car
+Oh, Lead
+Shatter the Mold
 Gobinday
 
 From ridiculous to beautiful and back again.

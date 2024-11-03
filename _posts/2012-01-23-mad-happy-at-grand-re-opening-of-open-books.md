@@ -2,9 +2,8 @@
 id: 98
 title: 'Mad haPPy at Grand Re-Opening of Open Books'
 date: '2012-01-23T17:06:01+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=98'
+guid: 'https://giggleoutloud.com/LIVE/?p=98'
 permalink: /2012/01/23/mad-happy-at-grand-re-opening-of-open-books/
 categories:
     - 'Concert Updates'

@@ -2,9 +2,8 @@
 id: 101
 title: 'Pensacola Stays Revolutionary'
 date: '2012-02-08T18:49:02+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=101'
+guid: 'https://giggleoutloud.com/LIVE/?p=101'
 permalink: /2012/02/08/pensacola-stays-revolutionary/
 categories:
     - 'Concert Updates'

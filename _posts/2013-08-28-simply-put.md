@@ -2,9 +2,8 @@
 id: 202
 title: 'Simply Put'
 date: '2013-08-28T02:41:41+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=202'
+guid: 'https://giggleoutloud.com/LIVE/?p=202'
 permalink: /2013/08/28/simply-put/
 snap_isAutoPosted:
     - '1'

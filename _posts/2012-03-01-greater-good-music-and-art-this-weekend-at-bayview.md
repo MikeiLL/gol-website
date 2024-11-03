@@ -2,9 +2,8 @@
 id: 100
 title: 'Greater Good Music and Art this weekend at Bayview'
 date: '2012-03-01T20:28:02+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=100'
+guid: 'https://giggleoutloud.com/LIVE/?p=100'
 permalink: /2012/03/01/greater-good-music-and-art-this-weekend-at-bayview/
 categories:
     - 'Concert Updates'

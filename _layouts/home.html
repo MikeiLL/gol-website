@@ -1,44 +1,23 @@
-<!doctype html>
-<html lang="en">
+---
+layout: default
+---
+<section>
 
-<head>
-  <meta charset="utf-8">
-  <title>Giggle Out Loud – Genre Fluid Music</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-  <header>
-    <h1>Home of Rivka and Mike iLL</h1>
-    <nav>
-      <a href="/" title="main page">Home</a>
-      <a href="https://cdn.forms-content.sg-form.com/80ed0f27-8fe8-11ef-ba56-e2f6e3f70426"
-        title="Signup for our newsletter">Newsletter Signup</a>
-    </nav>
-  </header>
-  <section>
-
-    <h2>Latest</h2>
-    <div class=excerpt>
-      {% for post in site.posts limit:1 %}
-      <a href="{{ post.url }}">
-        <h3>{{ post.date | date: "%d %B %Y" }}: {{ post.title }}</h3>
-      </a>
-      <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
-      <a href="{{ post.url }}">more...</a>
-    </div>
+  <h2>Latest</h2>
+  <div class=excerpt>
+    {% for post in site.posts limit:1 %}
+    <a href="{{ post.url }}">
+      <h3>{{ post.date | date: "%d %B %Y" }}: {{ post.title }}</h3>
+    </a>
+    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+    <a href="{{ post.url }}">more...</a>
+  </div>
+  {% endfor %}
+  <h2>Previous</h2>
+  <ul>
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date: "%-d %B %Y" }} {{ post.title }} </a>
+    </li>
     {% endfor %}
-    <h2>Previous</h2>
-    <ul>
-      {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.date | date: "%-d %B %Y" }} {{ post.title }} </a>
-      </li>
-      {% endfor %}
-    </ul>
-    <footer>
-      &copy; Rivka and Mike iLL Kilmer
-    </footer>
-</body>
-
-</html>
+  </ul>

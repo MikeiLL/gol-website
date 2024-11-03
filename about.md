@@ -2,9 +2,8 @@
 id: 554
 title: About
 date: '2011-01-23T19:05:28+00:00'
-author: illest
 layout: page
-guid: 'https://centerofwow.com/LIVE/?page_id=2'
+guid: 'https://giggleoutloud.com/LIVE/?page_id=2'
 ---
 
 Rivka and Mike iLL are primarily writers and composers. We perform as a (very cathartic) means to realize our visions. Giggle Out Loud were initially known as Mad haPPy, formed in 2002 as a guy/girl electronic duo blending electro, hip-hop, world-folk and pop. Drawing on a rainbow of musical influences from Hasidic folk melodies to Public Enemy to Hank Williams, Nina Simone, Madonna and Sly Stone, we describe our sound as electro-world/hip-hop, the lyrics promoting tolerance and individuality. Equally eclectic as playwrights, the story telling is influenced by our voracious childhood appetites for Nancy Drew, CS Lewis, Mark Twain and Dungeons and Dragons, along with later interest in Occult and psychoanalytic material, Beat Writers, Black Liberation, Civil Rights and Activist Literature, Nuyorican Spoken Word, Horror and Science Fiction. Under the guidance of James Rado, our theatrical studies have included the writings of Stanislavski, Chubbuck and Strasberg.

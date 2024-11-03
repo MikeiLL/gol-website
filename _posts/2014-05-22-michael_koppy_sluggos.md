@@ -2,9 +2,8 @@
 id: 222
 title: 'Mad haPPy and Michael Koppy at Sluggos'
 date: '2014-05-22T12:44:05+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=222'
+guid: 'https://giggleoutloud.com/?p=222'
 permalink: /2014/05/22/michael_koppy_sluggos/
 categories:
     - 'Concert Updates'

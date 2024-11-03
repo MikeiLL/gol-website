@@ -2,9 +2,8 @@
 id: 356
 title: 'Latex and Lilypond Hymnal Volume Two'
 date: '2016-07-26T21:42:47+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=356'
+guid: 'https://giggleoutloud.com/?p=356'
 permalink: /2016/07/26/latex-and-lilypond-hymnal-volume-two/
 categories:
     - Projects
@@ -103,10 +102,10 @@ texhash: Done.
 mikekilmer@jamaaladeen-2:~/Documents/Vault/Hymnal/musicexamples/documentation$ sudo !!
 sudo texhash
 Password:
-texhash: Updating /usr/local/texlive/2014/texmf-config/ls-R... 
-texhash: Updating /usr/local/texlive/2014/texmf-dist/ls-R... 
-texhash: Updating /usr/local/texlive/2014/texmf-var/ls-R... 
-texhash: Updating /usr/local/texlive/texmf-local/ls-R... 
+texhash: Updating /usr/local/texlive/2014/texmf-config/ls-R...
+texhash: Updating /usr/local/texlive/2014/texmf-dist/ls-R...
+texhash: Updating /usr/local/texlive/2014/texmf-var/ls-R...
+texhash: Updating /usr/local/texlive/texmf-local/ls-R...
 texhash: Done.
 
 
@@ -192,7 +191,7 @@ Meanwhile the latest LaTeX is 20% downloaded. JDE installed and now:
 
 ```
 $arara
-  __ _ _ __ __ _ _ __ __ _ 
+  __ _ _ __ __ _ _ __ __ _
  / _` | '__/ _` | '__/ _` |
 | (_| | | | (_| | | | (_| |
  \__,_|_|  \__,_|_|  \__,_|
@@ -297,7 +296,7 @@ harmonies = {
     }
     \new Lyrics \lyricsto "words" \text
   >>
-  \layout { 
+  \layout {
    % #(layout-set-staff-size 14)
    }
   \midi { }
@@ -343,7 +342,7 @@ you put in the same directory as this file.)
 The terminal commands are:
 
 ```
-lilypond-book --output=out --pdf song.lytex 
+lilypond-book --output=out --pdf song.lytex
 
 ```
 
@@ -404,7 +403,7 @@ At the moment the process for viewing updates:
 
 ```
 rm -rf out
-lilypond-book --output=out --pdf hymnal.lytex 
+lilypond-book --output=out --pdf hymnal.lytex
 cd out && pdflatex hymnal.tex
 pdflatex hymnal.tex # have to run it a second time to generate the Table of Contents.
 open hymnal.pdf

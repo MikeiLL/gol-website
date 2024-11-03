@@ -2,9 +2,8 @@
 id: 348
 title: 'Fun Times with Luddites and Zero Tracks on QuodLibet'
 date: '2016-03-25T23:24:13+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=348'
+guid: 'https://giggleoutloud.com/?p=348'
 permalink: /2016/03/25/fun-times-with-luddites-and-zero-tracks-on-quodlibet/
 categories:
     - Projects

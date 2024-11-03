@@ -2,9 +2,8 @@
 id: 371
 title: 'Further Developments Latex and Lilypond now with Arara and International Unicode Text via XeLatex'
 date: '2016-08-18T01:30:14+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=371'
+guid: 'https://giggleoutloud.com/?p=371'
 permalink: /2016/08/18/further-developments-latex-and-lilypond-now-with-arara-and-international-unicode-text-via-xelatex/
 categories:
     - 'Concert Updates'

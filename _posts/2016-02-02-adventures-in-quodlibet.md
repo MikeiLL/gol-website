@@ -2,9 +2,8 @@
 id: 317
 title: 'Adventures in QuodLibet'
 date: '2016-02-02T03:35:31+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=317'
+guid: 'https://giggleoutloud.com/?p=317'
 permalink: /2016/02/02/adventures-in-quodlibet/
 categories:
     - Projects
@@ -18,13 +17,13 @@ One thing I’d like to see is a more intuitive and useful interface for seeing 
 
 The way you run the bundle as development environment is by having the *bundle* run the cloned source code. On this computer you open the terminal program that resides in Applications/Utilities. It’s just a black and white window that puts you fairly directly in touch with the file system and features that run behind all the pretty windows of the GUI, or graphic user interface that some people pronounce, “gooey”. So you “move” into the Applications directory by typing `cd /Applications`. If you were to type `ls` you’d see a listing of all the applications that are in that directory (folder).
 
-<figure aria-describedby="caption-attachment-319" class="wp-caption aligncenter" id="attachment_319" style="width: 300px">[![In the OS X Terminal](https://centerofwow.com/LIVE/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-9.57.08-AM-300x140.png)](https://giggleoutloud.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-9.57.08-AM.png)<figcaption class="wp-caption-text" id="caption-attachment-319">In the OS X Terminal</figcaption></figure>Then type something along the lines of the following:
+<figure aria-describedby="caption-attachment-319" class="wp-caption aligncenter" id="attachment_319" style="width: 300px">[![In the OS X Terminal](https://giggleoutloud.com/LIVE/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-9.57.08-AM-300x140.png)](https://giggleoutloud.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-9.57.08-AM.png)<figcaption class="wp-caption-text" id="caption-attachment-319">In the OS X Terminal</figcaption></figure>Then type something along the lines of the following:
 
 `./QuodLibet.app/Contents/MacOS/run /Users/mikilmer/quodlibet/quodlibet/quodlibet.py`
 
 Where the first part is `./` telling your computer this is a *script* to run, then `QuodLibet.app/Contents/MacOS/run` is the *path* to the part of the Quodlibet bundle that runs the application. It’s a “bash” (*born again* shell) script that looks something like this:
 
-[![Screen Shot 2016-02-01 at 10.00.46 AM](https://centerofwow.com/LIVE/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-10.00.46-AM-300x261.png)](https://giggleoutloud.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-10.00.46-AM.png)
+[![Screen Shot 2016-02-01 at 10.00.46 AM](https://giggleoutloud.com/LIVE/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-10.00.46-AM-300x261.png)](https://giggleoutloud.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-01-at-10.00.46-AM.png)
 
 The last part of the line to run QuodLibet as a development environment, `/Users/mikilmer/quodlibet/quodlibet/quodlibet.py` is the *path* to the cloned codebase. I cloned it directly into my “home directory” located at `Users/mikilmer`.
 
@@ -56,7 +55,7 @@ To easily open QL this way from wherever in the directly system by simply typing
 
 So now we know that we can play with the Quodlibet code. Let’s see what’s going on with these “[plugins](http://quodlibet.readthedocs.org/en/latest/development/plugins.html)” that add various features.
 
-We’d like to have a feature that auto generates a list of each song we have done in a given session. To make a plugin you can create a file in `~/.quodlibet/plugins/`. We’ll call ours `generatelist.py`, and I think it will be of the *class* `EventPlugin`. The EventPlugin [base class](https://github.com/quodlibet/quodlibet/tree/master/quodlibet/quodlibet/plugins). Hmmm. There are a bunch of EventPlugin subclasses (plugins) (found using `grep -rnw '/path/to/quodlibet/'- e "plugin_on_song_ended"`)  
+We’d like to have a feature that auto generates a list of each song we have done in a given session. To make a plugin you can create a file in `~/.quodlibet/plugins/`. We’ll call ours `generatelist.py`, and I think it will be of the *class* `EventPlugin`. The EventPlugin [base class](https://github.com/quodlibet/quodlibet/tree/master/quodlibet/quodlibet/plugins). Hmmm. There are a bunch of EventPlugin subclasses (plugins) (found using `grep -rnw '/path/to/quodlibet/'- e "plugin_on_song_ended"`)
 that create an instance method called `plugin_on_song_ended` and by copying one of them I can see:
 
 ```

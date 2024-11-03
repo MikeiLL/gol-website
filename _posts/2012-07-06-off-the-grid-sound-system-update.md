@@ -2,9 +2,8 @@
 id: 141
 title: 'Off-The-Grid Sound System Update'
 date: '2012-07-06T14:41:44+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=141'
+guid: 'https://giggleoutloud.com/LIVE/?p=141'
 permalink: /2012/07/06/off-the-grid-sound-system-update/
 categories:
     - 'Occupy Together'

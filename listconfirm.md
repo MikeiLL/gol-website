@@ -2,9 +2,8 @@
 id: 392
 title: 'Please Confirm MadhaPPy List Membership'
 date: '2017-03-06T23:38:52+00:00'
-author: illest
 layout: page
-guid: 'https://centerofwow.com/?page_id=392'
+guid: 'https://giggleoutloud.com/?page_id=392'
 ---
 
 Thanks for joining our mailing list.

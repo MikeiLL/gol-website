@@ -2,9 +2,8 @@
 id: 484
 title: 'Real MadhaPPy Fans'
 date: '2018-10-26T20:57:30+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=484'
+guid: 'https://giggleoutloud.com/?p=484'
 permalink: /2018/10/26/real-madhappy-fans/
 image: /wp-content/uploads/2018/10/Wagner.png
 categories:
@@ -35,7 +34,7 @@ set myMessage to "I'm cleaning up our mailing list. Please hit me back (or go to
 Thanks and I hope you are doing magically and wonderfully.
 
 Blessings, Mike.
-https://centerofwow.com
+https://giggleoutloud.com
 "
 
 set mySubject to "New MadhaPPy email list"

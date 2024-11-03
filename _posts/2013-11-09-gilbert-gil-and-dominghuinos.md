@@ -2,9 +2,8 @@
 id: 213
 title: 'Gilbert Gil and Dominguinhos'
 date: '2013-11-09T22:14:38+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=213'
+guid: 'https://giggleoutloud.com/LIVE/?p=213'
 permalink: /2013/11/09/gilbert-gil-and-dominghuinos/
 snap_isAutoPosted:
     - '1'

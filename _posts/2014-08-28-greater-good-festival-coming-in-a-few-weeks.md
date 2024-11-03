@@ -2,9 +2,8 @@
 id: 263
 title: 'Greater Good Festival Coming in a Few Weeks'
 date: '2014-08-28T14:41:15+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=263'
+guid: 'https://giggleoutloud.com/?p=263'
 permalink: /2014/08/28/greater-good-festival-coming-in-a-few-weeks/
 categories:
     - 'Concert Updates'

@@ -2,9 +2,8 @@
 id: 182
 title: 'Montgomery-bound this Thursday &#8211; Nov 29th.'
 date: '2012-11-27T18:44:22+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=182'
+guid: 'https://giggleoutloud.com/LIVE/?p=182'
 permalink: /2012/11/27/montgomery-bound-this-thursday-nov-29th/
 categories:
     - 'Concert Updates'

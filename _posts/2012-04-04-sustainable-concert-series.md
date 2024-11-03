@@ -2,9 +2,8 @@
 id: 106
 title: 'Sustainable Concert Series'
 date: '2012-04-04T03:25:02+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=106'
+guid: 'https://giggleoutloud.com/LIVE/?p=106'
 permalink: /2012/04/04/sustainable-concert-series/
 categories:
     - 'Occupy Together'

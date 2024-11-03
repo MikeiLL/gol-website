@@ -2,7 +2,6 @@
 id: 601
 title: About
 date: '2022-10-05T00:41:28+00:00'
-author: illest
 layout: revision
 guid: 'https://giggleoutloud.com/?p=601'
 permalink: '/?p=601'

@@ -2,9 +2,8 @@
 id: 208
 title: 'How to Become an Underground Star (for West Florida Public Libraries Teen Read Week)'
 date: '2013-10-16T22:13:12+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=208'
+guid: 'https://giggleoutloud.com/LIVE/?p=208'
 permalink: /2013/10/16/how-to-become-an-underground-star-for-west-florida-public-libraries-teen-read-week/
 snap_isAutoPosted:
     - '1'

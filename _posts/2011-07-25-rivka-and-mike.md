@@ -2,9 +2,8 @@
 id: 86
 title: 'Rivka and Mike'
 date: '2011-07-25T12:25:05+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=86'
+guid: 'https://giggleoutloud.com/LIVE/?p=86'
 permalink: /2011/07/25/rivka-and-mike/
 categories:
     - 'Fun Stuff'

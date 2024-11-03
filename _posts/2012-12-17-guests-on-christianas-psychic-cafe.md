@@ -2,9 +2,8 @@
 id: 196
 title: 'Guests on Christiana&#8217;s Psychic Cafe'
 date: '2012-12-17T17:46:23+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=196'
+guid: 'https://giggleoutloud.com/LIVE/?p=196'
 permalink: /2012/12/17/guests-on-christianas-psychic-cafe/
 snap_isAutoPosted:
     - '1'

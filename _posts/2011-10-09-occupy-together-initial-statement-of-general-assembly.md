@@ -2,9 +2,8 @@
 id: 95
 title: 'Occupy Together &#8211; Initial Statement of General Assembly'
 date: '2011-10-09T18:18:44+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/LIVE/?p=95'
+guid: 'https://giggleoutloud.com/LIVE/?p=95'
 permalink: /2011/10/09/occupy-together-initial-statement-of-general-assembly/
 categories:
     - 'Occupy Together'

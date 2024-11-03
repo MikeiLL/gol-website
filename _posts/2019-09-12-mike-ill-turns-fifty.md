@@ -2,9 +2,8 @@
 id: 500
 title: 'Mike iLL turns fifty'
 date: '2019-09-12T15:02:14+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=500'
+guid: 'https://giggleoutloud.com/?p=500'
 permalink: /2019/09/12/mike-ill-turns-fifty/
 categories:
     - 'Concert Updates'

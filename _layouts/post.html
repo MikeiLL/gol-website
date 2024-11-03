@@ -1,29 +1,15 @@
-<title>{{ page.title }}</title>
-<link rel="stylesheet" href="css/style.css">
-<header>
-  <h1>Home of Rivka and Mike iLL</h1>
-  <nav>
-    <a href="/" title="main page">Home</a>
-    <a href="https://cdn.forms-content.sg-form.com/80ed0f27-8fe8-11ef-ba56-e2f6e3f70426"
-      title="Signup for our newsletter">Newsletter Signup</a>
-  </nav>
-</header>
-<main>
-  <h1>{{ page.title }}</h1>
-  <section>
-    {{ content }}
-    <p>{{ page.date | date: "%-d/%m/%Y" }}</p>
-  </section>
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+<p>{{ page.date | date: "%-d/%m/%Y" }}</p>
 
-  <div class="PageNavigation">
-    {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%-d %B %Y"}}</a>
-    {% endif %}
-    {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.date | date: "%-d %B %Y"}} &raquo;</a>
-    {% endif %}
-  </div>
-  <footer>
-    &copy; Rivka and Mike iLL Kilmer
-  </footer>
-</main>
+<div class="PageNavigation">
+  {% if page.previous.url %}
+  <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%-d %B %Y"}}</a>
+  {% endif %}
+  {% if page.next.url %}
+  <a class="next" href="{{page.next.url}}">{{page.next.date | date: "%-d %B %Y"}} &raquo;</a>
+  {% endif %}
+</div>

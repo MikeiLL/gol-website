@@ -2,9 +2,8 @@
 id: 521
 title: 'A new name for MadhaPPy'
 date: '2019-11-12T18:21:00+00:00'
-author: illest
 layout: post
-guid: 'https://centerofwow.com/?p=521'
+guid: 'https://giggleoutloud.com/?p=521'
 permalink: /2019/11/12/a-new-name-for-madhappy/
 image: /wp-content/uploads/2019/11/RikkiMikeVector.png
 categories:
@@ -13,7 +12,7 @@ categories:
 
 Mad and happy, are apparently a pretty popular combination of words and over the years we heard about various bands, venues that had taken up the moniker. It was kind of annoying. Not only that, but we don’t even use the slang, “mad” all that often. These dudes in California have a clothing company that uses the name and had pestered us for years wanting to buy madhappy.com. Finally, when they were offering enough to pay off our credit card debt with change, we decided it’s time to grow into a new name. We picked O, The Center of Wow, but realized that’s more the name of our space. So now we’re using Giggle Out Loud.
 
-For more on Center of Wow, go [here](https://centerofwow.com/2019/11/12/a-new-name-for-madhappy/).
+For more on Center of Wow, go [here](https://giggleoutloud.com/2019/11/12/a-new-name-for-madhappy/).
 
 We just made [facebook](https://www.facebook.com/centerofwow) and [instagram](https://www.instagram.com/centerofwow) intersections and are off to the races, so to speak.
 

@@ -2,7 +2,6 @@
 id: 607
 title: 'Sound &#038; Video'
 date: '2023-09-28T19:49:51+00:00'
-author: illest
 layout: revision
 guid: 'https://giggleoutloud.com/?p=607'
 permalink: '/?p=607'
