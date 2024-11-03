@@ -25,24 +25,6 @@ categories:
 og_description:
 og_keywords:
 ---
-<style>
-body {{
-  background-color: {bgcolor};
-  color: {textColor};
-}}
-a {{
-  color: {links};
-}}
-a:active {{
-  color: {alinks};
-}}
-a:hover {{
-  color: {hover};
-}}
-a:visited {{
-  color: {vlinks};
-}}
-</style>
 '''
 with open(filename, 'w') as new:
   new.write(template.format(

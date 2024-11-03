@@ -102,6 +102,15 @@ pre {
   text-align: right;
 }
 
+a {
+  color: var(--brand-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 /* HEADER */
 header,
 footer {
