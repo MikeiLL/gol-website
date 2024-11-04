@@ -144,6 +144,29 @@ header nav a:hover {
   text-decoration: underline;
 }
 
+nav#social {
+  position: absolute;
+  right: 0.5em;
+  top: 0.5em;
+  display: flex;
+  gap: 1em;
+  border: 1px solid var(--white);
+  padding: 0.5em;
+}
+
+nav#social a {
+  width: 30px;
+  height: 30px;
+}
+
+nav#social a svg {
+  stroke: var(--white);
+}
+
+nav#social a:hover svg {
+  stroke: var(--brand-info);
+}
+
 /* POSTS */
 .excerpt {
   margin: 1em 0;
