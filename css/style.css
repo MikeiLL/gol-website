@@ -158,14 +158,18 @@ nav#social {
 nav#social a {
   width: 30px;
   height: 30px;
+  color: var(--white);
 }
 
 nav#social a svg {
   stroke: var(--white);
+  border: none;
 }
 
-nav#social a:hover svg {
-  stroke: var(--brand-info);
+nav#social a:hover svg,
+nav#social a:hover svg path,
+nav#social a:hover svg line {
+  stroke: var(--brand-secondary);
 }
 
 /* POSTS */
