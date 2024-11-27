@@ -15,6 +15,7 @@
   --brand-danger: #79002e;
   --white: #f6f3f9;
   --black: #150127;
+  --light-grey: #939393;
 }
 
 body {
@@ -35,7 +36,7 @@ section {
 }
 
 p {
-  margin: 0.7em 0;
+  margin: 3em 0;
   max-width: 780px;
   line-height: 1.14em;
 }
@@ -59,22 +60,23 @@ h6 {
 }
 
 blockquote {
-  margin: 1em;
+  margin: 1em 0;
   font-style: italic;
   font-size: 1.1em;
   max-width: 90%;
+  background: var(--light-grey);
+  padding: 0.2em 1em;
+  border-radius: 5px;
 }
 
 blockquote cite {
-  font-size: 0.8em;
+  font-size: 2em;
   font-style: normal;
   white-space: nowrap;
-}
-
-header,
-main,
-footer {
-  padding: 0.6em;
+  width: 100%;
+  text-align: right;
+  display: block;
+  margin-top: 1em;
 }
 
 pre {
@@ -120,25 +122,39 @@ footer {
   width: 100%;
 }
 
+
+header,
+main,
+footer {
+  padding: 0.6em;
+}
+
+
 header {
   margin: 0 0 1em;
 }
 
 footer {
-  margin: 1em 0 0;
+  margin: 3em 0 0;
   text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  max-width: 60%;
 }
 
 header nav {
   display: flex;
   justify-content: space-between;
-  gap: 1em;
   width: 100%;
+  margin: 1em 0;
 }
 
 header nav a {
   color: #fff;
   text-decoration: none;
+  font-size: 1.4em;
 }
 
 header nav a:hover {
@@ -156,8 +172,8 @@ nav#social {
 }
 
 nav#social a {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
   color: var(--white);
 }
 
@@ -215,5 +231,25 @@ nav#social a:hover svg line {
 
   body {
     font-size: 1.2em;
+  }
+
+  .linktree a {
+    padding: 0.5em 1em;
+    font-size: 1.2em;
+  }
+
+  .linktree {
+    gap: 1.3em;
+  }
+
+
+  header nav a {
+    font-size: 1.2em;
+  }
+
+  nav#social a {
+    width: 30px;
+    height: 30px;
+    color: var(--white);
   }
 }

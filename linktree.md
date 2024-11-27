@@ -17,6 +17,5 @@ guid: 'https://giggleoutloud.com/LIVE/?page_id=20'
   <li><a title="Link to Site" href="https://open.spotify.com/artist/4WXo2VEN7be857VqfRoP0n" class="btn">Spotify</a></li>
   <li><a title="Link to Site" href="https://www.pandora.com/artist/giggle-out-loud/ARfcn7Kw33fffvq" class="btn">Pandora</a></li>
   <li><a title="Link to Site" href="https://mzoo.bandcamp.com/album/promise" class="btn">Promise Download</a></li>
-
-
 </ul>
+<p></p>

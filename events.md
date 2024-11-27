@@ -6,6 +6,13 @@ layout: page
 guid: 'https://giggleoutloud.com/LIVE/?page_id=20'
 ---
 
+Every Monday 7pm - 9pm Central
+Live Stream on [Twitch.tv](https://twitch.tv/giggleoutloudband).
+
+---
+
+### Past Events
+
 Saturday, November 16, 2024
 
 Betty's on Belmont Album Release with Pauper's Grave and DJ Hale
