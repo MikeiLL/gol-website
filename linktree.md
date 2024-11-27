@@ -13,5 +13,7 @@ guid: 'https://giggleoutloud.com/LIVE/?page_id=20'
   <li><a title="Link to Site" href="https://www.instagram.com/giggleoutloudband" class="btn">Instagram</a></li>
   <li><a title="Link to Site" href="https://www.facebook.com/giggleoutloudband" class="btn">Facebook</a></li>
   <li><a title="Link to Site" href="https://www.twitch.tv/giggleoutloudband" class="btn">Twitch</a></li>
+  <li><a title="Link to Site" href="https://music.apple.com/us/artist/giggle-out-loud/1781858921" class="btn">Apple Music</a></li>
+  <li><a title="Link to Site" href="https://open.spotify.com/artist/4WXo2VEN7be857VqfRoP0n" class="btn">Spotify</a></li>
   <li><a title="Link to Site" href="https://mzoo.bandcamp.com/album/promise" class="btn">Promise Download</a></li>
 </ul>
