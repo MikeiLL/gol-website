@@ -6,4 +6,4 @@ layout: page
 guid: 'https://giggleoutloud.com/LIVE/?page_id=58'
 ---
 
-Best way to reach us is at mike@mzoo.org or rivkakilmer@gmail.com.
+### Best way to reach us is at [mike@mzoo.org](mailto:mike@mzoo.org) or [rivkakilmer@gmail.com](mailto:rivkakilmer@gmail.com).
