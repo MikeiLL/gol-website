@@ -132,6 +132,8 @@ footer {
 
 header {
   margin: 0 0 1em;
+  position: relative;
+  height: 200px;
 }
 
 footer {
@@ -141,8 +143,8 @@ footer {
 
 
 header h1 {
-  font-size: 2.5em;
-  max-width: 60%;
+  font-size: 1.5em;
+  max-width: 90%;
 }
 
 header h2 {
@@ -151,6 +153,116 @@ header h2 {
 
 header h3 {
   font-size: 1.8em;
+}
+
+
+/* Nav */
+
+ul.menu li {
+  text-align: center;
+  margin: 1em;
+}
+
+ul.menu li a {
+  padding: 0.5em;
+}
+
+ul.menu li a:hover {
+  background-color: var(--brand-primary-dark);
+}
+
+.menuItem {
+  display: block;
+  margin: 1rem 4rem;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: var(--white);
+}
+
+.menuItem:hover {
+  text-decoration: underline;
+  color: var(--primary);
+}
+
+.hamburger {
+  position: fixed;
+  z-index: 1100;
+  top: 1rem;
+  right: 1rem;
+  padding: 4px;
+  border: none;
+  border-radius: 5px;
+  border: 1px solid var(--primary);
+  cursor: pointer;
+  color: var(--white);
+}
+
+.hamburger span {
+  display: none;
+}
+
+.hamburger svg line {
+  stroke: var(--white);
+}
+
+.hamburger svg line:nth-of-type(1),
+.hamburger svg line:nth-of-type(2),
+.hamburger svg line:nth-of-type(3) {
+  opacity: 1;
+}
+
+header>input:checked~.hamburger svg line:nth-of-type(1),
+header>input:checked~.hamburger svg line:nth-of-type(2),
+header>input:checked~.hamburger svg line:nth-of-type(3) {
+  opacity: 0;
+}
+
+.hamburger svg line:nth-of-type(4),
+.hamburger svg line:nth-of-type(5) {
+  opacity: 0;
+}
+
+header>input:checked~.hamburger svg line:nth-of-type(4),
+header>input:checked~.hamburger svg line:nth-of-type(5) {
+  opacity: 1;
+}
+
+.hamburger svg line {
+  transition: all 0.5s linear;
+}
+
+header>input:checked~.hamburger svg line:nth-of-type(2) {
+  stroke: none;
+}
+
+.menu {
+  position: fixed;
+  transform: translateY(-100%);
+  transition: all 0.2s;
+  top: -20px;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background: var(--brand-primary);
+  color: var(--white);
+  list-style: none;
+  padding-top: 4rem;
+  z-index: 1000;
+  font-weight: 400;
+  font-style: normal;
+  visibility: hidden;
+  max-height: calc(100vh + 20px);
+  overflow-y: auto;
+}
+
+header input:checked~nav ul {
+  transform: translateY(0);
+  visibility: visible;
+  border-bottom: 4px solid var(--secondary-light)
+}
+
+nav {
+  width: 100%;
 }
 
 header nav {
@@ -172,12 +284,13 @@ header nav a:hover {
 
 nav#social {
   position: absolute;
-  right: 0.5em;
-  top: 0.5em;
+  margin: auto;
+  bottom: 10px;
   display: flex;
   gap: 1em;
   border: 1px solid var(--white);
   padding: 0.5em;
+  width: fit-content;
 }
 
 nav#social a {
@@ -223,6 +336,10 @@ nav#social a:hover svg line {
   color: var(--white);
   padding: 0.5em 1em;
   border-radius: 5px;
+}
+
+iframe {
+  max-width: 90vw;
 }
 
 /* Responsive design */
